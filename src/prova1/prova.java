@@ -16,6 +16,7 @@ public class prova {
     public static void main(String[] args) {
         prova1 p=new prova1();
         p.Hello();
+        System.out.println(p.Number(3, 5));
     }
     
 }

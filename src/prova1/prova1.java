@@ -9,9 +9,10 @@ package prova1;
  * @author User
  */
 public class prova1 {
-    
     public void Hello(){
         System.out.println("Hello");
     }
-    
+    public int Number(int a,int b){
+        return a+b;
+    }
 }
